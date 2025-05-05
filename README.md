@@ -5,7 +5,7 @@ Para demostrar mis habilidades en el desarrollo de aplicaciones Android. Cada de
 
 Tecnologías principales:
 
-Kotlin y Java
+Kotlin
 
 Android Jetpack (ViewModel, LiveData, Navigation, Room)
 

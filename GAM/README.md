@@ -34,6 +34,14 @@ Disponible en Google Play.
                 <img src="assets/17.jpeg" width="150" alt="Captura de pantalla 17">
 </div>
 
+### 🧑🏻‍💻 Documentación de la Aplicación
+
+La documentación del código fuente de la aplicación ha sido generada utilizando **Dokka**, la herramienta de documentación para Kotlin de JetBrains. Esta documentación proporciona una visión detallada de las clases, interfaces, funciones y propiedades del proyecto, incluyendo explicaciones sobre su propósito, parámetros y valores de retorno.
+
+**Ruta de la Documentación:** [`/dokka/html`](./docs/dokka/index.html)
+
+Para acceder a la documentación, navegue https://davidretur.github.io/DocumentacionGam.github.io/ en su navegador web.
+
 ### 🧑🏻‍💻 Tecnologías Utilizadas
 
 
@@ -63,12 +71,6 @@ Disponible en Google Play.
 * **SplashScreen Personalizada:** Implementa una pantalla de presentación para mejorar la experiencia de inicio de la aplicación.
 
 
-### 🧑🏻‍💻 Documentación de la Aplicación
 
-La documentación del código fuente de la aplicación ha sido generada utilizando **Dokka**, la herramienta de documentación para Kotlin de JetBrains. Esta documentación proporciona una visión detallada de las clases, interfaces, funciones y propiedades del proyecto, incluyendo explicaciones sobre su propósito, parámetros y valores de retorno.
-
-**Ruta de la Documentación:** [`/docs/dokka`](./docs/dokka/index.html)
-
-Para acceder a la documentación, navegue https://davidretur.github.io/DocumentacionGam.github.io/ en su navegador web.
 
 

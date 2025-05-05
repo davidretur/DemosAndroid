@@ -1,5 +1,5 @@
 # Sanimex Gam
-<img src="assets/lOGO.png" align="left" width="180" hspace="10" vspace="10" />
+<img src="assets/LOGO.png" align="left" width="180" hspace="10" vspace="10" />
 
 **Gam** Es una aplicación móvil desarrollada en Kotlin y Jetpack Compose, diseñada para facilitar la gestión de pedidos y la interacción con el catálogo de productos de Sanimex. Permite a los usuarios explorar el catálogo, buscar productos, gestionar un carrito de compras, acceder a información de clientes, visualizar ubicaciones y consultar históricos de cotizaciones, adaptándose a diferentes roles de usuario dentro de la empresa.
 

@@ -1,5 +1,5 @@
 # Sanimex Gam
-<img src="assets/icon.webp" align="left" width="180" hspace="10" vspace="10" />
+<img src="assets/logo.png" align="left" width="180" hspace="10" vspace="10" />
 
 **Gam** Es una aplicación móvil desarrollada en Kotlin y Jetpack Compose, diseñada para facilitar la gestión de pedidos y la interacción con el catálogo de productos de Sanimex. Permite a los usuarios explorar el catálogo, buscar productos, gestionar un carrito de compras, acceder a información de clientes, visualizar ubicaciones y consultar históricos de cotizaciones, adaptándose a diferentes roles de usuario dentro de la empresa.
 
@@ -9,22 +9,29 @@ Disponible en Google Play.
   <img
     alt="En Google Play"
     height="80"
-    src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/visual-identity_badges_880x57.max-1920x1070.format-webp.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20250505%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250505T184657Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=55e4bcaed3f2f65088d7e2f88a85c54198ee4131f4f22919e0fae7df300a5a5cd62a9949b4c399533ceee914f40d497e530332037ff0da8a34dcecc0a3b781f4cef5d829b650aeef3b6899c83242484e6ccf2b4462c86ad3f7a9623a606fc68f6eb3caa97466bf7bdcf862120d423e0c9ff9c7b5f67001ecc5a37d64724c509ccc3da5b1563191f3e3b7daeedd802cc00e78a57ee9e5a5591b0b3a6a50b28e1103682963d6cc9498373627de54202cadfd9d1920aec7b1c0a5acd9474162756141091395fc6afa03cab523016395320a2652b7e81e9db5cdf1da9a01ef6726a0b50539968b48ba9ef6b3588eddef23ccd64bab30cd3e3862e2301961698f9a25"/>
+    src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/visual-identity_logos_880x572.max-1920x1070.format-webp.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20250505%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250505T201821Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=987bad9d4aaf6f82e5622cd34f38b6526b806579942f1335abaf048b9d069d3880ebd8533e15f92e6a7b56b47a788fcbf98de7ac1c9c73d70b7f3fe73a7b0abd65901b94f8068b8db34f290ba5ff9b2b111e13f8b7a5b0c406f6c770e3634214e86b9828f0ee60e46bf8a87ae055a4c5b1948405927b5979f9fd1fcf2b2db9998f990842c0b094267c69fdaa5ba3ea643e155ff5b1ca8fa9fdab78e43b08b9053ea41667816d03daabd4074cb3de247e0b564e1ec5a2956386af931f2424e4f760366cf714d92f4357e3fcdeab8a3897b602509db2cad8e3bec56236c6b68b3efe945a923030bc45e48226e46c6a15a7fa862ecdf554a198b13b9fa2c99281c9"/>
 </a>
 
 ## Screenshots
 
 <div>
-   <img src="assets/1.jpg" width="150" alt="Captura de pantalla 1">
-   <img src="assets/2.jpg" width="150" alt="Captura de pantalla 2">
-   <img src="assets/3.jpg" width="150" alt="Captura de pantalla 3">
-    <img src="assets/4.jpg" width="150" alt="Captura de pantalla 4">
-    <img src="assets/5.jpg" width="150" alt="Captura de pantalla 5">
-  <img src="assets/6.jpg" width="150" alt="Captura de pantalla 6">
-  <img src="assets/7.jpg" width="150" alt="Captura de pantalla 7">
-  <img src="assets/8.jpg" width="150" alt="Captura de pantalla 8">
-  <img src="assets/9.jpg" width="150" alt="Captura de pantalla 9">
-  <img src="assets/10.jpg" width="150" alt="Captura de pantalla 10">
+   <img src="assets/1.jpeg" width="150" alt="Captura de pantalla 1">
+   <img src="assets/2.jpeg" width="150" alt="Captura de pantalla 2">
+   <img src="assets/3.jpeg" width="150" alt="Captura de pantalla 3">
+    <img src="assets/4.jpeg" width="150" alt="Captura de pantalla 4">
+    <img src="assets/5.jpeg" width="150" alt="Captura de pantalla 5">
+  <img src="assets/6.jpeg" width="150" alt="Captura de pantalla 6">
+  <img src="assets/7.jpeg" width="150" alt="Captura de pantalla 7">
+  <img src="assets/8.jpeg" width="150" alt="Captura de pantalla 8">
+  <img src="assets/9.jpeg" width="150" alt="Captura de pantalla 9">
+  <img src="assets/10.jpeg" width="150" alt="Captura de pantalla 10">
+    <img src="assets/11.jpeg" width="150" alt="Captura de pantalla 11">
+      <img src="assets/12.jpeg" width="150" alt="Captura de pantalla 12">
+        <img src="assets/13.jpeg" width="150" alt="Captura de pantalla 13">
+          <img src="assets/14.jpeg" width="150" alt="Captura de pantalla 14">
+            <img src="assets/15.jpeg" width="150" alt="Captura de pantalla 15">
+              <img src="assets/16.jpeg" width="150" alt="Captura de pantalla 16">
+                <img src="assets/17.jpeg" width="150" alt="Captura de pantalla 17">
 </div>
 
 ### 🧑🏻‍💻 Tecnologías Utilizadas

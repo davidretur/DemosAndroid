@@ -32,6 +32,16 @@ Disponible en Google Play.
             <img src="assets/15.jpeg" width="150" alt="Captura de pantalla 15">
               <img src="assets/16.jpeg" width="150" alt="Captura de pantalla 16">
                 <img src="assets/17.jpeg" width="150" alt="Captura de pantalla 17">
+                <img src="assets/18.jpeg" width="150" alt="Captura de pantalla 18">
+                <img src="assets/19.jpeg" width="150" alt="Captura de pantalla 19">
+                <img src="assets/20.jpeg" width="150" alt="Captura de pantalla 20">
+                <img src="assets/21.jpeg" width="150" alt="Captura de pantalla 21">
+              <img src="assets/22.jpeg" width="150" alt="Captura de pantalla 22">
+            <img src="assets/23.jpeg" width="150" alt="Captura de pantalla 23">
+          <img src="assets/24.jpeg" width="150" alt="Captura de pantalla 24">
+         <img src="assets/25.jpeg" width="150" alt="Captura de pantalla 25">
+      <img src="assets/26.jpeg" width="150" alt="Captura de pantalla 26">
+    <img src="assets/27.jpeg" width="150" alt="Captura de pantalla 27">
 </div>
 
 ### 🧑🏻‍💻 Documentación de la Aplicación

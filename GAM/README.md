@@ -38,7 +38,7 @@ Disponible en Google Play.
 
 La documentación del código fuente de la aplicación ha sido generada utilizando **Dokka**, la herramienta de documentación para Kotlin de JetBrains. Esta documentación proporciona una visión detallada de las clases, interfaces, funciones y propiedades del proyecto, incluyendo explicaciones sobre su propósito, parámetros y valores de retorno.
 
-**Ruta de la Documentación:** [`/dokka/html`](./docs/dokka/index.html)
+**Ruta de la Documentación:** [`/dokka/html`](./dokka/index.html)
 
 Para acceder a la documentación, navegue https://davidretur.github.io/DocumentacionGam.github.io/ en su navegador web.
 

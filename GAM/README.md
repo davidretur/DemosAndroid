@@ -69,6 +69,6 @@ La documentación del código fuente de la aplicación ha sido generada utilizan
 
 **Ruta de la Documentación:** [`/docs/dokka`](./docs/dokka/index.html)
 
-Para acceder a la documentación, navegue a la carpeta `docs/dokka` en este repositorio y abra el archivo `index.html` en su navegador web.
+Para acceder a la documentación, navegue https://davidretur.github.io/DocumentacionGam.github.io/ en su navegador web.
 
 

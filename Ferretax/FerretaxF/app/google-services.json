@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "348428990480",
+    "project_id": "taximaroaadmin",
+    "storage_bucket": "taximaroaadmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348428990480:android:87493b2c30530191d67295",
+        "android_client_info": {
+          "package_name": "com.devcom.ferretax_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348428990480-r91huid6kr3je63ck9fsdmsgmlhdhtaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBC98QxRV3nbbsGfN3M6booL3pyddI00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348428990480-r91huid6kr3je63ck9fsdmsgmlhdhtaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348428990480:android:bdba44efee713a09d67295",
+        "android_client_info": {
+          "package_name": "com.devcom.ferretaxf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348428990480-r91huid6kr3je63ck9fsdmsgmlhdhtaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBC98QxRV3nbbsGfN3M6booL3pyddI00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348428990480-r91huid6kr3je63ck9fsdmsgmlhdhtaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
